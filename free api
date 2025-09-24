@@ -1,0 +1,2 @@
+const apiKey = 'adad10551cc24a04b3e71d3a8ac33bb4';
+const url = `https://api.opencagedata.com/geocode/v1/json?q=${latitude}+${longitude}&key=${apiKey}`;
